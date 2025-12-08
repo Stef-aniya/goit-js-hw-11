@@ -53,3 +53,8 @@ body {
   display: block;
   margin: 20px auto;
 }
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
